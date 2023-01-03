@@ -3,7 +3,7 @@ import random
 import zmq
 import zmq.asyncio
 
-from zeeslag_data import *
+from battleships_data import *
 
 import logging
 
