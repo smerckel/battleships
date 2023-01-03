@@ -6,7 +6,7 @@ import numpy as np
 import zmq
 from termcolor import cprint
 
-from battleships_data import *
+from .battleships_data import *
 
 import logging
 logger = logging.getLogger(__name__)
